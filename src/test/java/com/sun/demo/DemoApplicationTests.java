@@ -11,6 +11,7 @@ class DemoApplicationTests {
 	void contextLoads() {
 
 		System.out.println("test");
+		System.out.println("test1");
 
 		Assertions.assertTrue(false);
 	}
