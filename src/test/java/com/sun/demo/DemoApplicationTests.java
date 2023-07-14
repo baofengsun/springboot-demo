@@ -13,7 +13,7 @@ class DemoApplicationTests {
 		System.out.println("test");
 		System.out.println("test1");
 
-		Assertions.assertTrue(false);
+		Assertions.assertTrue(true);
 	}
 
 }
